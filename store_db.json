@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Litter-Robot 4 Automatic Self-Cleaning Litter Box - White",
+        "price":700,
+        "image": "2.webp",
+        "description": "Suitable for up to 4 cats of any breed or size"
+    },
+    {
+        "title": "Lynxmotion SES-PRO 550mm 6Dof Modular Robotic Arm Assembled",
+        "price": 6.950,
+        "image": "1.jpg",
+        "description": "2 X RB-Hap-22 - Lynxmotion Smart Servo PRO XT60 Female to Female Extension (65cm)"
+    },
+    {
+        "title": "MechDog Hiwonder Open Source AI Robot",
+        "price": 29519,
+        "image": "3.webp",
+        "description": "Equipped with 8 high-speed coreless servos, providing high accuracy and robust force. Its leg"
+    },
+    {
+        "title": "Kinova Gen3 Lite 6-DOF Educational & Professional Robot Arm",
+        "price": 13.50000,
+        "image": "4.webp",
+        "description": "Gen3 Lite 6-DOF Educational & Professional Robot Arm"
+    },
+    {
+        "title": "Energize Lab Eilik Little Companion Bot (Blue)",
+        "price": 139.99,
+        "image": "5.jpg",
+        "description": "Energize Lab Eilik Little Companion Bot "
+    },
+    {
+        "title": "Unitree Go2 AIR Robotic Dog",
+        "price": 2.49000,
+        "image": "",
+        "description": "Energize Lab Eilik Little Companion Bot. "
+    },
+    {
+        "title": "Unitree Go2 AIR Robotic Dog",
+        "price": 94545454,
+        "image": "6.webp",
+        "description": "Energize Lab Eilik Little Companion Bot. "
+    },
+    {
+        "title": "Unitree G1 Humanoid Robot",
+        "price":21.60000,
+        "image": "7webp",
+        "description": "Unitree G1 Humanoid Robot. "
+    },
+    {
+        "title": "DOBOT MG400 Robotic Arm",
+        "price": 3.12500,
+        "image": "8.webp",
+        "description": "DOBOT MG400 Robotic Arm. "
+    },
+    {
+        "title": "Leo Rover v1.8 Developer Kit",
+        "price": 29519,
+        "image": "9.webp",
+        "description": " Leo Rover v1.8 Developer Kit (Unassembled)"
+    },
+    {
+        "title": "UFACTORY xArm 5 Lite Robotic Arm (5 DoF)",
+        "price": 25657,
+        "image": "10.webp",
+        "description": "xArm 5 Lite Robotic Arm. "
+    },
+    {
+        "title": "Marten Inspection Crawler Robot",
+        "price": 2932349,
+        "image": "11.webp",
+        "description": "Independent 4WD with Zero-Turn Maneuverability. "
+    },
+    {
+        "title": "Slamtec Robot Base Athena 2.0",
+        "price": 349519,
+        "image": "12.webp",
+        "description": "Slamtec Robot Base Athena 2.0 "
+    },
+    {
+        "title": "Double Robotics Charging Dock Station",
+        "price": 254519,
+        "image": "13.webp",
+        "description": "Keep your Double Robotics telepresence robot powered up with this Charging Dock. The dockк. "
+    },
+    {
+        "title": "Chengzhou PGS 5.5 Mini Magnetic Gripper",
+        "price": 56519,
+        "image": "14.webp",
+        "description": "Compact size of 20-26 mm, allowing for deployment in a relatively small environment. "
+    },
+    {
+        "title": "Chengzhou CGE-10-10 Three finger Electric",
+        "price": 67519,
+        "image": "15.webp",
+        "description": "Compact size of 20-26 mm, allowing for deployment in a relatively small environment. "
+    },
+    {
+        "title": "Chairless Chair 2.0 (Large)",
+        "price": 289519,
+        "image": "16.webp",
+        "description": "Passive exoskeleton technology. "
+    },
+    {
+        "title": "PGC-50-35-O-S Collaborative Parallel Gripper",
+        "price": 43354,
+        "image": "Support Plug & Play with most brands of collaborative robots",
+        "description": "17.webp "
+    }
+]
